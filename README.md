@@ -4,10 +4,9 @@ CPE32S5
 
 **Prelim Examination**
 
-Pagatpat, Paul Gabriel
-
 Dalangan, Katherine May
 
+Pagatpat, Paul Gabriel
 
 
 Choose any dataset applicable for classification and/or prediction analysis problems.
